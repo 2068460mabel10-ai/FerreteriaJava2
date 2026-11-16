@@ -10,7 +10,6 @@ import jakarta.servlet.http.HttpServletResponse;
 import DAO.ProductoDAO;
 import Modelo.Producto;
 
-
 public class ProductoServlet extends HttpServlet {
 
     private static final long serialVersionUID = 1L;
